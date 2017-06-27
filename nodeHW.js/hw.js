@@ -1,0 +1,7 @@
+spotify
+Client ID
+53083e9e39874fb689de49d0e9abd86c
+
+Client Secret
+7323c044b3c54b02a2b2c9664e0d494e
+
